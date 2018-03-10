@@ -1,0 +1,14 @@
+{
+  "name": "shoppinglist",
+  "version": "1.0.0",
+  "description": "A desktop app for a shopping list",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Apoorv Shrivastav",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^1.7.8"
+  }
+}
